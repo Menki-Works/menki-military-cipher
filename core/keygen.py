@@ -1,4 +1,3 @@
-
 # Key generation logic for ECC
 
 from cryptography.hazmat.primitives.asymmetric import x25519
